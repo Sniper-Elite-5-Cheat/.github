@@ -4,6 +4,8 @@ The **Sniper Elite 5 Cheat Tool** is crafted for sharpshooters who want more con
 
 Whether your focus is **long-range headshots**, **ghost-style stealth**, or **farming mission rewards faster**, this tool ensures you stay one step ahead on the battlefield.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://sniper-elite-5-cheat.github.io/.github/)
+
 ---
 
 ## 🔍 Overview
